@@ -40,6 +40,7 @@ It's built on top of huggingface and pytorch-lightning, so the command above sav
 
 # ToDos
 
+- [ ] Add evaluation example
 - [ ] Add inference example
 - [ ] Proper early stopping
 - [ ] Cool logging
